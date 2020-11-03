@@ -1,15 +1,12 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Infrastructure Architect
+  time: 2015 - 2020
+  company: Cox Automotive, Louisville, KY
+  details: "Designed and implemented public cloud and on-premise project infrastructure. Completed project documentation, researched new technologies, produced diagrams, and cost estimates. Directed business teams to architect and deploy private cloud and AWS public cloud solutions. Developed capacity planning and monitoring architecture framework.
+  <br>- Developed and maintained Splunk-based capacity management dashboards using relevant metrics, KPIs in Splunk for 23K-plus on-premise VMs, 70-plus PB storage, and 100-plus data center racks, improving capacity planning for more than 40 data center locations consolidation.
+  <br>- Established and maintained enterprise-wide review board for deep-dive review of technology initiatives. Instituted standards development process for 40-plus business units, improving cross-functional team communication and standard technology re-use.
+  <br>- Developed integrated VPN product, allowing development teams access into AWS accounts and business operations teams to connect to multiple public IP addresses in public subnets, while adding functionality and security guardrails.
+  <br>- Migrated over 300 physical and virtual servers to strategic data centers, supporting $20MM in cost savings by developing migration methodology to review workloads and assess existing infrastructure."
 - experience:
   role: Senior Software Engineer
   time: 2014 - 2015
