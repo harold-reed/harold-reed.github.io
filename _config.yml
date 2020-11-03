@@ -1,0 +1,39 @@
+# Site Settings
+title: Harold Reed Resume
+url: 'https://harold-reed.github.io/aws-resume'
+baseurl: 'https://harold-reed.github.io/' #change it according to your repository name
+
+style: styles-aws
+
+#Profile information
+name: Harold Reed
+tagline: Infrastructure Architect
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'Deliver Innovative Cloud-based Projects
+
+Service driven, bridging human needs and business technology. Level headed professional team player, adapting to deliver impactful customer-focused solutions showing cost savings and continuous improvement for enterprise projects. Organized communicator, bringing creative, timely, critical thinking skills to bear on complex business opportunities.'
+#language button
+
+lang-en: en.png
+lang-en-url: https://harold-reed.github.io
+
+#sidebar links
+email: harold.reed@outlook.com
+phone:  678-357-9655
+website: harold-reed.github.io
+linkedin: hreed123
+github: harold-reed
+twitter: '@hreed123'
+#Update all the sections by editing the files inside _data folder.
+
+resume-file: #Put here the full file name (with extention) of your resume file (myresume.pdf)
+
+# Tracker
+analytics: UA-69289145-4
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
