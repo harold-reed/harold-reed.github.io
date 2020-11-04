@@ -1,7 +1,7 @@
 # Site Settings
 title: Harold Reed Resume
-url: 'https://harold-reed.github.io/'
-baseurl: 'https://harold-reed.github.io/' #change it according to your repository name
+url: 'https://harold-reed.github.io'
+baseurl: 'https://harold-reed.github.io' #change it according to your repository name
 
 style: styles-aws
 
