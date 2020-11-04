@@ -1,6 +1,6 @@
 # Site Settings
 title: Harold Reed Resume
-url: 'https://harold-reed.github.io/aws-resume'
+url: 'https://harold-reed.github.io/'
 baseurl: 'https://harold-reed.github.io/' #change it according to your repository name
 
 style: styles-aws
@@ -29,11 +29,11 @@ twitter: '@hreed123'
 resume-file: #Put here the full file name (with extention) of your resume file (myresume.pdf)
 
 # Tracker
-analytics: UA-69289145-4
+analytics: G-GW2LLBDEH2
 
 # Build settings
 encoding: "utf-8"
 compress_html: # - http://jch.penibelst.de/
   clippings: all
   ignore:
-    envs: development
+    envs: nonprod

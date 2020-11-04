@@ -1,8 +1,8 @@
 - certification:
   name: AWS Certified Cloud Practitioner
-  register: Amazon with Alpine Testing Solutions
-  link: http://your-uri-badge.com
-  serial: XXDDEERRDDEE
-  logo: aws-csa-associate.png
+  register: Amazon with Credly
+  link: https://www.youracclaim.com/badges/1bedf2f5-959b-4c45-91d6-2965bb5b9d48/public_url
+  logo: aws-ccp.png
   issue-date: July 2020
   expiration-date: July 2023
+
