@@ -26,7 +26,7 @@ github: harold-reed
 twitter: '@hreed123'
 #Update all the sections by editing the files inside _data folder.
 
-resume-file: #Put here the full file name (with extention) of your resume file (myresume.pdf)
+resume-file: Harold_Reed_Resume.pdf #Put here the full file name (with extention) of your resume file (myresume.pdf)
 
 # Tracker
 analytics: G-GW2LLBDEH2
