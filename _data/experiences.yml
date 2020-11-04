@@ -3,23 +3,64 @@
   time: 2015 - 2020
   company: Cox Automotive, Louisville, KY
   details: "Designed and implemented public cloud and on-premise project infrastructure. Completed project documentation, researched new technologies, produced diagrams, and cost estimates. Directed business teams to architect and deploy private cloud and AWS public cloud solutions. Developed capacity planning and monitoring architecture framework.
-  <br>- Developed and maintained Splunk-based capacity management dashboards using relevant metrics, KPIs in Splunk for 23K-plus on-premise VMs, 70-plus PB storage, and 100-plus data center racks, improving capacity planning for more than 40 data center locations consolidation.
-  <br>- Established and maintained enterprise-wide review board for deep-dive review of technology initiatives. Instituted standards development process for 40-plus business units, improving cross-functional team communication and standard technology re-use.
-  <br>- Developed integrated VPN product, allowing development teams access into AWS accounts and business operations teams to connect to multiple public IP addresses in public subnets, while adding functionality and security guardrails.
-  <br>- Migrated over 300 physical and virtual servers to strategic data centers, supporting $20MM in cost savings by developing migration methodology to review workloads and assess existing infrastructure."
+  <br>
+  - Developed and maintained Splunk-based capacity management dashboards using relevant metrics, KPIs in Splunk for 23K-plus on-premise VMs, 70-plus PB storage, and 100-plus data center racks, improving capacity planning for more than 40 data center locations consolidation.
+  <br>
+  - Established and maintained enterprise-wide review board for deep-dive review of technology initiatives. Instituted standards development process for 40-plus business units, improving cross-functional team communication and standard technology re-use.
+  <br>
+  - Developed integrated VPN product, allowing development teams access into AWS accounts and business operations teams to connect to multiple public IP addresses in public subnets, while adding functionality and security guardrails.
+  <br>
+  - Migrated over 300 physical and virtual servers to strategic data centers, supporting $20MM in cost savings by developing migration methodology to review workloads and assess existing infrastructure."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Infrastructure Architect
+  time: 2013 - 2015
+  company: Cox Communications, Atlanta, GA
+  details: "Designed application environments for $20MM project spend using internal private cloud and external public cloud-based infrastructures. Created new web services infrastructure for application consolidation projects.
+  <br>
+  - Architected 25-plus VMware virtualization consolidation projects, using Red Hat and Windows platforms on private cloud infrastructure.
+  <br>
+  - Increased accuracy of customer reporting by structuring 5TB daily logs Splunk solution for application and customer logs consolidation, improving application performance visibility and customer information and sales forecasting.
+  <br>
+  - Architected and remediated secure systems with encryption and PCI, increasing network capacity, secure systems availability and scalability."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Director of Infrastructure
+  time: 2012 - 2013
+  company: Central Parking, Nashville, TN
+  details: "Managed $1.5MM budget and 18-person infrastructure team for systems administration, network, and help desk functions.
+  <br>
+  - Remediated 100-plus systems for security exposures, complying with PCI and SOX regulations.
+  <br>
+  - Established application support and development teams to construct project, resource, and communication plans for merger workstreams, implementing Atlassian Confluence to manage runbook efforts for 4 teams and over 15 applications."
+- experience:
+  role: Design Team Lead
+  time: 2011 - 2012
+  company: Bank of America, Nashville, TN
+  details: "Deployed and supported infrastructure for Global Risk Technology projects.
+  <br>
+  - Built application environments for over 12 projects, representing $12MM project spend."
+- experience:
+  role: TECHNICAL INFRASTRUCTURE ADVISOR
+  time: 2009 - 2011
+  company: Intercontinental Hotel Group, Atlanta, GA
+  details: "Deployed and supported infrastructure for $25MM Java-based CRM project.
+  <br>
+  - Developed monitoring and capacity planning solutions, using MQ, OSGI, JMX, SiteScope. Designed support plan for 20-plus Java-based applications.
+  <br>
+  - Created infrastructure solutions with on- and off-shore development teams, replacing existing CRM systems using distributed technologies."
+
+- experience:
+  role: Solution Architect
+  time: 2007 - 2009
+  company: General Electric - Energy Services, Atlanta, GA
+  details: "Developed architecture for more than 80 projects in Energy Services and Oil & Gas divisions, comprising $7MM project spend and $4MM total business savings. Managed 4-person contractor staff project timelines, using Six Sigma tools and concepts.
+  <br>
+  - Reduced resource allocation defects 96%, focusing on resource management and planning as part of Six Sigma Green Belt certification."
+
+- experience:
+  role: Vice President / Team Leader
+  time: 2006 - 2007
+  company: Bank of America, Atlanta, GA
+  details: "Led bank wide effort to develop comprehensive analysis of Internet connections and standards.
+  <br>
+  - Constructed $10MM-plus DMZ infrastructure consolidation project."
+

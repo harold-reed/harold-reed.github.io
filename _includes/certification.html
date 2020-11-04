@@ -14,10 +14,10 @@
             <img src="{{site.baseurl}}/assets/images/aws/{{certification.logo}}" class="cert-aws-img">
           </div>
   		</div>
-      <div class="certification-meta">Justificatif: <a href="{{ certification.link }}">{{ certification.serial }}</a></div>
-      <div class="certifcation-register">Délivré par: {{ certification.register }}</div>
-      <div class="certification-issued">Date d'obtention: {{ certification.issue-date}}</div>
-      <div class="certification-expiration">Valable jusqu'au: {{ certification.expiration-date}}</div>
+      <div class="certification-meta">Issue link: <a href="{{ certification.link }}">{{ certification.serial }}</a></div>
+      <div class="certifcation-register">Issued by: {{ certification.register }}</div>
+      <div class="certification-issued">Date Obtained: {{ certification.issue-date}}</div>
+      <div class="certification-expiration">Valid through: {{ certification.expiration-date}}</div>
     </div><!--//item-->
   {% endfor %}
 </section>
