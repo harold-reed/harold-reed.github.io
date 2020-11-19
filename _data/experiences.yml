@@ -65,3 +65,21 @@
   - Constructed $10MM-plus DMZ infrastructure consolidation project.
   <br>
   - Developed cost models for existing infrastructure and spending plans for new environment. Developed risk/reward matrix for business cases."
+
+- experience:
+  role: Team Leader (Vice President) – Infrastructure Engineering  
+  time: 2004-2006
+  company: Bank of America, Atlanta, GA
+  details: "Developed solutions for Infrastructure design and architecture for emerging technologies. Guided infrastructure work for DMZ core services work with technology teams’ efforts. Managed web server program product for e-commerce and web banking systems. Team was responsible for working with Solaris 10 systems supporting web banking. Worked extensively with vendor on support issues and tuning requirements.
+  <br>
+  - Managed 5-person team to develop career growth and adherence to performance plan.
+  <br>
+  - Managed roll-out for metric gathering system in DMZ. Developed solution for gathering and presenting performance data sets for capacity teams for dashboard and e-commerce forecasting efforts. Implemented combination of MRTG and Cacti to give solid picture of existing infrastructure, enabling support teams to have consistent view into DMZ systems’ performance and availability.
+  <br>
+  - Managed monitoring conversion for 300+ Solaris, AIX, and related systems from Concord E-Health to Tivoli Enterprise monitoring system. Worked with system administration, monitoring, and business teams to communicate status and resolve issues.
+  <br>
+  - Co-authored ITIL documentation for DMZ support groups. Standardized and distributed documents for procedures and policies.
+  <br>
+  - Guided efforts for ensuring security compliance with DMZ and Information Security requirements for web server and core tools efforts.
+  <br>
+  - Enhanced existing Firewall Toolkit deployments through developing C applications for  proxy infrastructure and tools in support of $5MM e-commerce application."
