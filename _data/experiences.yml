@@ -101,3 +101,43 @@
   - Administered DNS/BIND, e-mail (Sendmail, Netscape/iPlanet Messaging Server), e-commerce solutions (Netscape/iPlanet Enterprise, Application, and Directory Servers), and proxy systems (Netscape/iPlanet Proxy, Inktomi Traffic Server, Firewall Toolkit, CheckPoint, NetApp NetCache) in DMZ (firewall) environments. Ensured connectivity for all servers to console server/LOM environment for increased support and availability.
   <br>
   - Developed process monitoring and reporting services for proxy infrastructure. Wrote system using Perl, Unix shell scripting, MRTG and other tools for automated gathering and publishing data. Developed proxy configuration system using JavaScript, supporting 180,000 end users."
+
+- experience:
+  role: Team Leader (Vice President)  
+  time: 1998 - 2001
+  company: Bank of America
+  details: "Infrastructure design and architecture for emerging technologies, e-commerce, Internet e-mail, DNS, LDAP, extranet, SMTP, and proxy/caching services. Worked to implement technical solutions to complex business requirements for various bank groups. Created and deployed system configurations and architectures for enterprise applications.
+<br>
+- Managed 4 person team, conducting reviews, rating/ranking associates, developing training plans. Coordinated recruitment of new talent to the group. Interviewed candidates, developed relationships with contracting companies, and scheduled team interviews.
+<br>
+- Co-developed SMTP relay infrastructure responsible for relaying Internet and intranet messages. Scaled system to successfully handle 3M+ messages/80 GB per month. Integrated relay servers with 150,000-entry LDAP database. Managed platforms through various merger activities, expanding for extranet connection to support Bank of America merger.
+<br>
+- Developed and managed associate browsing infrastructure. Developed implementation plan, resolved desktop issues, developed troubleshooting guidelines and tools. System successfully supported over 100,000 devices with high availability. Co-developed logging and reporting infrastructure for over 60 sites and services. Used network analysis tools (Sniffer, snoop, nmap) to manage and scope rollout and resolve problems.
+<br>
+- Administered DNS/BIND, e-mail (Sendmail, Netscape/iPlanet Messaging Server), and proxy systems (Netscape/iPlanet Proxy, Firewall Toolkit, CheckPoint) in DMZ (firewall) environments.
+<br>
+- Two-time recipient of “24x7x365 Award” for outstanding service at Bank of America."
+
+- experience:
+  role: Systems Engineer (Asst. Vice President)  
+  time: 1997 - 1998
+  company: NationsBank
+  details: "Responsible for identifying new technologies and deploying new Internet-technology applications. Identified and resolved problems with TCP/IP applications.
+<br>
+- Co-managed DNS & DHCP infrastructure for 100,000+ IP addresses. Developed group support procedures for managing nationwide infrastructure.
+<br>
+- Used Perl, shell scripts to develop reporting infrastructure. Built internal web-based reporting infrastructure to provide centralized reports for management.
+<br>
+- Developed support procedures for TCP/IP rollout of nationwide HP OpenMail e-mail system. Included site visits to locations to resolve user issues connecting to system. Coordinated various technical groups to rollout emergency changes to users."
+
+- experience:
+  role: Systems Analyst (Officer)  
+  time: 1996 - 1997
+  company: NationsBank
+  details: "Team leader for 2nd and 3rd level support teams. Developed workflow for ticket resolution with central bank helpdesk. Developed intranet site for support documentation and ticket management. Created management reports on call volumes, resolution times."
+
+- experience:
+  role: Business Analyst (Officer)  
+  time: 1993 - 1996
+  company: NationsBank
+  details: "Assisted business teams to onboard to corporate WAN. Migrated departmental applications to file servers."  
